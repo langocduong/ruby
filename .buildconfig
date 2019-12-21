@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/duong/.cache/gnome-builder/install/week2/host
+app-id=
+postbuild=
+prebuild=
+default=true
